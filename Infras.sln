@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infras.Logger", "Logger\Infras.Logger.csproj", "{62AB884B-C323-43A2-83C3-9F3F22525279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{728455C2-49D0-4927-9CDC-4B8D862E29DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62AB884B-C323-43A2-83C3-9F3F22525279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AB884B-C323-43A2-83C3-9F3F22525279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AB884B-C323-43A2-83C3-9F3F22525279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AB884B-C323-43A2-83C3-9F3F22525279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728455C2-49D0-4927-9CDC-4B8D862E29DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728455C2-49D0-4927-9CDC-4B8D862E29DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728455C2-49D0-4927-9CDC-4B8D862E29DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728455C2-49D0-4927-9CDC-4B8D862E29DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {859C2F72-9B50-4792-8AF1-6A0477A01591}
+	EndGlobalSection
+EndGlobal
